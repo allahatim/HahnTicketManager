@@ -37,9 +37,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
-            ],
-            "scripts": []
+              "node_modules/@fortawesome/fontawesome-free/css/all.css",
+               "src/styles.scss"
+              ],
+            "scripts": [
+            ]
           },
           "configurations": {
             "production": {
@@ -104,5 +106,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
