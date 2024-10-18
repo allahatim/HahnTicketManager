@@ -11,7 +11,20 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 - **Ticket Listing**: View and sort tickets by ID, Description, Status, and Date.
 - **Modal Operations**: Add, update, and delete tickets using modal dialogs.
 - **Validation**: Uses Yup for client-side form validation.
+## Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- **Node.js** (version 14.x or later)
+- **Angular CLI** (version 17.3.7)
   
+## Setup Instructions
+1. **Clone the Repository**
+2. **Install Dependencies**
+   npm install
+3. **Run the Development Server**
+   ng serve
+   
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
