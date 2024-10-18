@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\hahn\\TicketManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\features\\tickets\\deleteticket\\deleteticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\features\\tickets\\deleteticket\\deleteticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\features\\tickets\\getalltickets\\getallticketsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\features\\tickets\\getalltickets\\getallticketsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\features\\tickets\\getalltickets\\getallticketsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\features\\tickets\\getalltickets\\getallticketsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\features\\tickets\\deleteticket\\deleteticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\features\\tickets\\deleteticket\\deleteticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\features\\tickets\\getticketbyid\\getticketbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\features\\tickets\\getticketbyid\\getticketbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\features\\tickets\\getticketbyid\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\features\\tickets\\getticketbyid\\getticketbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\features\\tickets\\updateticket\\updateticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\features\\tickets\\updateticket\\updateticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\features\\tickets\\updateticket\\updateticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\features\\tickets\\updateticket\\updateticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\features\\tickets\\createticket\\createticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\features\\tickets\\createticket\\createticketcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\ticketmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\ticketmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|e:\\hahn\\ticketmanagementapi\\ticketmanagementapi\\migrations\\20241016210623_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3232D24F-942E-4172-978E-8D256C3C657C}|TicketManagementAPI\\TicketManagementAPI.csproj|solutionrelative:ticketmanagementapi\\migrations\\20241016210623_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteTicketCommand.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\DeleteTicket\\DeleteTicketCommand.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Features\\Tickets\\DeleteTicket\\DeleteTicketCommand.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\DeleteTicket\\DeleteTicketCommand.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Features\\Tickets\\DeleteTicket\\DeleteTicketCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:44:27.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Controllers\\TicketsController.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:42:22.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Program.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Program.cs*",
+              "RelativeToolTip": "TicketManagementAPI\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:59:44.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllTicketsQuery.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\GetAllTickets\\GetAllTicketsQuery.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Features\\Tickets\\GetAllTickets\\GetAllTicketsQuery.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\GetAllTickets\\GetAllTicketsQuery.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Features\\Tickets\\GetAllTickets\\GetAllTicketsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:09:27.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Data\\DataContext.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:48:35.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteTicketCommandHandler.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\DeleteTicket\\DeleteTicketCommandHandler.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Features\\Tickets\\DeleteTicket\\DeleteTicketCommandHandler.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\DeleteTicket\\DeleteTicketCommandHandler.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Features\\Tickets\\DeleteTicket\\DeleteTicketCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:44:38.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllTicketsQueryHandler.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\GetAllTickets\\GetAllTicketsQueryHandler.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Features\\Tickets\\GetAllTickets\\GetAllTicketsQueryHandler.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\GetAllTickets\\GetAllTicketsQueryHandler.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Features\\Tickets\\GetAllTickets\\GetAllTicketsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:09:43.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetTicketByIdQuery.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\GetTicketById\\GetTicketByIdQuery.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Features\\Tickets\\GetTicketById\\GetTicketByIdQuery.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\GetTicketById\\GetTicketByIdQuery.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Features\\Tickets\\GetTicketById\\GetTicketByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:18:16.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetTicketByIdQueryHandler.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\GetTicketById\\GetTicketByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Features\\Tickets\\GetTicketById\\GetTicketByIdQueryHandler.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\GetTicketById\\GetTicketByIdQueryHandler.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Features\\Tickets\\GetTicketById\\GetTicketByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:18:28.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTicketCommandHandler.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\UpdateTicket\\UpdateTicketCommandHandler.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Features\\Tickets\\UpdateTicket\\UpdateTicketCommandHandler.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\UpdateTicket\\UpdateTicketCommandHandler.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Features\\Tickets\\UpdateTicket\\UpdateTicketCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:16:04.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateTicketCommand.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\UpdateTicket\\UpdateTicketCommand.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Features\\Tickets\\UpdateTicket\\UpdateTicketCommand.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\UpdateTicket\\UpdateTicketCommand.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Features\\Tickets\\UpdateTicket\\UpdateTicketCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:40:41.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTicketCommandHandler.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\CreateTicket\\CreateTicketCommandHandler.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Features\\Tickets\\CreateTicket\\CreateTicketCommandHandler.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Features\\Tickets\\CreateTicket\\CreateTicketCommandHandler.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Features\\Tickets\\CreateTicket\\CreateTicketCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:53:23.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Entities\\Ticket.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Entities\\Ticket.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:34:17.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TicketManagementAPI.csproj",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\TicketManagementAPI.csproj",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\TicketManagementAPI.csproj",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\TicketManagementAPI.csproj",
+              "RelativeToolTip": "TicketManagementAPI\\TicketManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T11:50:09.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241016210623_Initial.cs",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Migrations\\20241016210623_Initial.cs",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\Migrations\\20241016210623_Initial.cs",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\Migrations\\20241016210623_Initial.cs",
+              "RelativeToolTip": "TicketManagementAPI\\Migrations\\20241016210623_Initial.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABQwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:06:24.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TicketManagementAPI\\appsettings.json",
+              "ToolTip": "E:\\hahn\\TicketManagementAPI\\TicketManagementAPI\\appsettings.json",
+              "RelativeToolTip": "TicketManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T21:47:45.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
