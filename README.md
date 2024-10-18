@@ -9,3 +9,13 @@ We employ MediatR to facilitate CQRS, allowing decoupled communication between c
 Conclusion
 By implementing CQRS with MediatR in our .NET 8 CRUD application, we enhance performance and maintainability, making it easier to manage and scale as the application grows.
 
+## Setup Instructions
+
+1. **Clone the Repository**
+2. **Restore NuGet Packages**
+   dotnet restore
+3. **Update the Database**
+   dotnet ef database update
+4. **Run the Application**
+   dotnet run
+
